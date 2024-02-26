@@ -1,6 +1,7 @@
-import { FEATURES } from '@/constants'
+
 import Image from 'next/image'
 import React from 'react'
+import { FEATURES } from '../constants'
 
 const Features = () => {
   return (
